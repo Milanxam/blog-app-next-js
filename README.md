@@ -1,2 +1,2 @@
 # blog-app-next-js
-blog app using markdown files to generate the blog html made from the official next.js tutorial
+blog app using dynamic routing and markdown files to generate the html for the blog pages - made from the [official next.js tutoril](https://nextjs.org/learn/basics/create-nextjs-app)
