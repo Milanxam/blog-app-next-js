@@ -3,6 +3,6 @@ portfolio / blog app using dynamic routing and a content processing mechanisim t
 
 It now also features images for the blog-pages!
 
-Soon to add functional code blocks with code highlighting
+Soon to add functional code blocks with code highlighting and a dark mode
 
 ![screenshot](https://github.com/Milanxam/blog-app-next-js/assets/96538473/de7fdba8-29ea-4bad-a758-f4388ff48a10)
